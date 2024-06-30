@@ -13,6 +13,8 @@ One-Click Summaries: Generate concise summaries of documents with just a single 
 Time-Saving: Save time and improve efficiency in reviewing lengthy documents.
 
 Executable version1 link: https://github.com/maheek07/TextFusion/releases/tag/v1
+
+
 Installation
 To install and run TextFusion locally:
 
