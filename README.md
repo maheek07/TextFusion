@@ -17,7 +17,7 @@ Installation
 To install and run TextFusion locally:
 
 Clone the repository:
-git clone https://github.com/yourusername/TextFusion.git
+git clone (https://github.com/maheek07/TextFusion)
 
 Run the application:
 python main.py
