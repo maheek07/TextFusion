@@ -12,6 +12,8 @@ Automated Summarization Tool
 One-Click Summaries: Generate concise summaries of documents with just a single click.
 Time-Saving: Save time and improve efficiency in reviewing lengthy documents.
 
+![Screenshot (2) final](https://github.com/user-attachments/assets/c245f962-bed6-40d8-86ca-83810e2cfacc)
+
 Executable version1 link: https://github.com/maheek07/TextFusion/releases/tag/v1
 
 
